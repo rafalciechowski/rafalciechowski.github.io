@@ -1,0 +1,55 @@
+body {
+  font: Arial;
+  font-family: sans-serif;
+  width:960px;
+  margin: auto;
+}
+
+h1 {
+  color: grey;
+  font-size: 40px;
+}
+
+h2 {
+  color: grey;
+  font-style: italic;
+  font-size: 17px;
+}
+
+p {
+  color: grey;
+  font-size: 15px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: yellow;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: white;
+}
+
+img {
+  width: 130px;
+}
+
+.watermark {
+  width: 960px;
+}
